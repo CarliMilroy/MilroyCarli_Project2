@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@import url("video_hover.js.css");
+
+.position{
+	position:absolute;
+	left:150px;
+	top:50px;
+}
+
+.position2{
+	position:absolute;
+	left:610px;
+	top:50px;
+}
+
+.position3{
+	position:absolute;
+	left:1050px;
+	top:50px;
+}
+
+.mouse:hover video{
+}
+
+.finger1{
+	position: absolute;
+	z-index:2;
+	
+}
+.globe
+    {
+      position:absolute;
+      top: 2px;
+      left: 2px;
+		margin-left: 56px;
+		margin-top: 320px;
+		width: 345px;
+		height: 231px;
+      z-index: 3;
+    }
+
+	
+    .art
+    {
+      position:absolute;
+      top: 25px;
+      left: 25px;
+		margin-left: 397px;
+		margin-top: 280px;
+		width:329px;
+		height:265px;
+      z-index: 4;
+    }
+ .train
+    {
+      position:absolute;
+      top: 25px;
+      left: 25px;
+		margin-left: 740px;
+		margin-top: 290px;
+		width: 335px; 
+		height: 250px;
+      z-index: 5;
+    }
+ .city
+    {
+      position:absolute;
+      top: 5px;
+      left: 5px;
+		margin-left: 1107px;
+		margin-top: 325px;
+		width: 335px; 
+		height:220px;
+      z-index: 6;
+    }
+
+.button1{
+	margin-left:100px;	
+}
